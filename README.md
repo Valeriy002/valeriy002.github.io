@@ -1,7 +1,7 @@
 # Портфолио Валерия Быкова.
 ## Реальные заказы:
 
-[1.Сайт на тему игры Clash Royale](http://clash-royale.tk)
+[1. Сайт на тему игры Clash Royale](http://clash-royale.tk)
  <br/>
 [2. Сайт видеооператора](https://valeriy002.github.io/Виктор%20Волков%20-%20видеооператор/index.html)
  <br/>
