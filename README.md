@@ -7,3 +7,5 @@
  <br/>
  [4.Лендинг](https://valeriy002.github.io/Landing%20(no%20name)/index.html)
  <br/>
+  [5.Сайт на тему игры Clash Royale](http://clash-royale.tk)
+ <br/>
