@@ -19,7 +19,7 @@
 
  
 ## Тренировочные:
-[1.Лендинг](https://valeriy002.github.io/Landing%20(no%20name)/index.html)
+[1. Лендинг](https://valeriy002.github.io/Landing%20(no%20name)/index.html)
  <br/>
 [2. Сайт юридических услуг](https://valeriy002.github.io/Юридические%20услуги/index.html)
  <br/>
