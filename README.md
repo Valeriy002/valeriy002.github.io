@@ -7,9 +7,10 @@
  <br/>
 [3. Сайт свадебного фотографа](https://valeriy002.github.io/Максим%20-%20свадебный%20фотограф/index.html)
  <br/>
-[4. Сайт юридических услуг](https://valeriy002.github.io/Юридические%20услуги/index.html)
- <br/>
+
  
 ## Тренировочные:
 [1.Лендинг](https://valeriy002.github.io/Landing%20(no%20name)/index.html)
+ <br/>
+[2. Сайт юридических услуг](https://valeriy002.github.io/Юридические%20услуги/index.html)
  <br/>
