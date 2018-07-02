@@ -7,6 +7,9 @@
  <br/>
 [3. Сайт свадебного фотографа](https://valeriy002.github.io/Максим%20-%20свадебный%20фотограф/index.html)
  <br/>
+[4. Тонирование балконов и лоджий](https://valeriy002.github.io/%D0%A2%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B1%D0%B0%D0%BB%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%20%D0%B8%20%D0%BB%D0%BE%D0%B4%D0%B6%D0%B8%D0%B9/)
+ <br/>
+ 
 
  
 ## Тренировочные:
